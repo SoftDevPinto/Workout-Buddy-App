@@ -1,3 +1,7 @@
+// WorkoutBuddy 
+// Chris Pinto
+// Final Sprint - Passion Project
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';

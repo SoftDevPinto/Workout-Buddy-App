@@ -127,3 +127,13 @@ form.signup, form.login {
   background: #fff;
   border-radius: 4px;
 }
+.edit{
+  margin-left: 900px;
+  background: var(--primary);
+  border: 0;
+  color: #fff;
+  padding: 10px;
+  font-family: "Poppins";
+  border-radius: 4px;
+  cursor: pointer;
+}
